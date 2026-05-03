@@ -3,6 +3,8 @@
 # What is OnoPKG?
 
 OnoPKG is a small package manager for OnOS <br>
+Well kinda <br>
+It pulls packages from arch repos, but not just from a random mirror, it pulls from the fastest mirror <br>
 Mostly vibe coded since ion know much C but at least it works <br>
 
 # How to compile it
